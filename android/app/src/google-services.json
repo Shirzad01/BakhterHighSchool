@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484919856170",
+    "firebase_url": "https://bakhter-high-school-default-rtdb.firebaseio.com",
+    "project_id": "bakhter-high-school",
+    "storage_bucket": "bakhter-high-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484919856170:android:a49c620d8c687dabc34753",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484919856170-d4q8jskvbtsam4itqo8j58jvug09t0t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9WepHDX0xzBtsOi29DB5R_NF8vxUlps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484919856170-d4q8jskvbtsam4itqo8j58jvug09t0t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

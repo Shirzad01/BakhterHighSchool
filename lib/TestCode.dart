@@ -1,0 +1,1 @@
+//qadam INTEGER, subjectOfBast INTEGER, gradeOfEducation INTEGER, fieldOfKnowledge TEXT, service INTEGER, placeOfTeaches TEXT, numberCode INTEGER, dateOfTaqrr INTEGER, phoneNumber INTEGER, timeOfTeaches INTEGER,
